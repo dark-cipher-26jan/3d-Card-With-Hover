@@ -20,7 +20,7 @@ This project showcases a stylish 3D card with a hover effect, implemented using 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dark_cipher-26jan/3d-card-with-hover.git
+   git clone https://github.com/dark-cipher-26jan/3d-card-with-hover.git
 cd 3d-card-with-hover
 
 
